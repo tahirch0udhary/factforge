@@ -1,0 +1,14 @@
+# Model files
+*.pkl
+*.bin
+*.pt
+*.safetensors
+server/models/
+models/
+
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
